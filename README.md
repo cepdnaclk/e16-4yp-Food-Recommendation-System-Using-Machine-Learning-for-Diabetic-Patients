@@ -1,4 +1,5 @@
 
 ### Aim of the Project 
 
-To investigate the influence of mobile applications to prevent type-2 diabetes amongst Sri Lankans with central obesity and prediabetes by developing a machine learning based intelligent mobile application for managing diets, exercises and incorporating with doctors.
+The aim of this project is to recommend proper foods for Sri Lankan diabetic patients in the context of nutrition and food characteristics by developing a machine learning based intelligent mobile application.
+
