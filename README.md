@@ -1,7 +1,4 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
-___
 
-## Please refer the instructions in below URL:
+### Aim of the Project 
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
+To investigate the influence of mobile applications to prevent type-2 diabetes amongst Sri Lankans with central obesity and prediabetes by developing a machine learning based intelligent mobile application for managing diets, exercises and incorporating with doctors.
