@@ -1,29 +1,29 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Dhanushka S.M.V.",
+            "email": "e16083@eng.pdn.ac.lk",
+            "eNumber": "E/16/083"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Wijayasinghe S.D.D.D.",
+            "email": "e16394@eng.pdn.ac.lk",
+            "eNumber": "E/16/394"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Wijekoon W.M.T.S.",
+            "email": "e16396@eng.pdn.ac.lk",
+            "eNumber": "E/16/396"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Mr. D.S. Deegalla",
+            "email": "sampath@eng.pdn.ac.lk"
         },
         {
-            "name": "Dr. Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Mrs. Nadeesha Adikari",
+            "email": "nadeeshaa@eng.pdn.ac.lk"
         }
     ],
     "media": [
@@ -33,5 +33,5 @@
             "url": "#"
         }
     ],
-    "tags": ["Final Year Projects"]
+    "tags": ["Machine Learning", "Diabetes", "Food Recommendation", "Nutrients", "Final Year Projects"]
 }
