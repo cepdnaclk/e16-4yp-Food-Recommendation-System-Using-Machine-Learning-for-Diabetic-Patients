@@ -1,4 +1,4 @@
-## Food Recommendation System Using Machine Learning for Diabetic Patients in Sri Lanka
+## Food Recommendation System Using Machine Learning for Diabetic Patients
 
 ### Aim of the Project
 
