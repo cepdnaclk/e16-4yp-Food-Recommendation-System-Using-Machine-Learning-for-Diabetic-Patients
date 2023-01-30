@@ -63,7 +63,7 @@ title: Food Recommendation System Using Machine Learning for Diabetic Patients
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
 
 - [Project Repository](https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients)
-- [Project Page](https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients-in-Sri-Lanka/)
+- [Project Page](https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
