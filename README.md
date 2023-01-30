@@ -2,13 +2,18 @@
 
 ### Aim of the Project
 
-The aim of this project is to recommend proper foods for Sri Lankan diabetic patients in the context of nutrition and food characteristics by developing a machine learning based intelligent mobile application.
+The aim of this project is to recommend proper foods for diabetic patients in the context of nutrition and food characteristics by developing a machine learning based intelligent mobile application.
 
 ### Background
 
-Sri Lanka being a lower middle income developing country lacks adequate resources, both financial and human, to manage the increasing load of diabetic patients. Furthermore, according to the research, one in five adults in Sri Lanka has either pre-diabetes or diabetes and one-third of those with diabetes are undiagnosed. Diabetes is mainly a disorder of carbohydrate metabolism and maintaining the best carbohydrate to lipid ratio in the diet is a major challenge. Hence nutrition plays a significant role in controlling diabetes.
+Diabetes is a huge problem. The number of diabetic patients increases each year by millions. And can you imagine only for the year 2021 the health expenditure for diabetes was more than 966 billion USD? Not only that. According to the research, 1 in 10 adults has diabetes and 1 death per every 5 seconds worldwide. Even in Sri Lanka, one in five adults has either diabetes or prediabetes. So how can we get rid of this? Unfortunately, according to medical professionals, there is no cure yet. 
 
-The [Food Composition Table](http://bfnvw.bfnsrilanka.org/foodcomp/) dataset will be divided based on the nutrients for diabetes, with the help of a nutritionist. The clustering algorithms are used to find foods with an approximate amount of nutrients. In the end, the system will be evaluated by invited nutritionists.
+The only thing, we can do is to control diabetes, especially by avoiding unhealthy foods. 
+So how can we scientifically ensure whether a particular food is healthy or not for diabetes? Well, this is where the Glycemic Index comes into play. The Glycemic Index is a rating system for foods and foods with a low Glycemic index are recommended for diabetic patients. 
+
+But have you ever seen the Glycemic Index printed on packaged foods? Most probably no right? In fact, the glycemic index can only be determined inside a laboratory.
+
+Diabeedoc which is an intelligent mobile application. Using Diabeedoc you can find the suitability of a particular food for diabetes in no time. We have deployed our GI based machine-learning models to the Azure cloud. Diabeedoc uses those ML models with the Openfoodfacts database to predict particular food is suitable or not. If it is not suitable Diabeedoc is capable of suggesting better foods using machine learning based substitution system. 
 
 ### Expected Outcomes
 
