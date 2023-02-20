@@ -152,7 +152,7 @@ After all these analyses, the final model gave an accuracy of 0.79.
 
 The k value was set as 17 due to number of food groups in the dataset. The affinity propagation algorithm recongnized 41 clusters in the food dataset. The som intialized with 117 neurons according to 5 times squareroot of data points.
 
-<center>
+<div align="center">
 
 |      **Model**       | **Cluster Size** | **Nutrient Score** | **Group Score** | **Speed** |
 | :------------------: | :--------------: | :----------------: | :-------------: | :-------: |
@@ -162,7 +162,7 @@ The k value was set as 17 due to number of food groups in the dataset. The affin
 
 <span><i>Table 01: The performance of clusting algorithms compared to baseline model</i></span>
 
-</center>
+</div align="center">
 
 The above values were wrt the baseline model result on a given high GI food. The KMeans and SOM algorithms were able to select foods with similar nutrient content to given than the affinity propagation algorithm. SOM was able to match the food group of high glycemic index food when selecting food. The SOM and KMeans were faster than the baseline model when producing the results.
 
