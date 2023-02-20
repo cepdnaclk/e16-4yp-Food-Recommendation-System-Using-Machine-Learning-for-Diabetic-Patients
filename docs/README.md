@@ -45,6 +45,12 @@ The Glycemic Index is a rating system for foods and foods with a low Glycemic In
 
 ## Related works
 
+Phanich M., Pholkul P., & Phimoltares S. developed a food recommendation system using clustering analysis for diabetes patients. They labeled the food into three groups normal food, limited food, and avoidable food. They created a self-organizing map using 8 nutrient values suggested by domain experts. They trained the system using the K-means clustering algorithm between k from 15 to 20 and found 19 as the best choice. The system recommends 5 foods from both limited and normal food groups that had approximated nutrient content similar to the given food. However, it can not identify a new food that is not in the training data set as avoidable or not.
+
+The study, Personalized Nutrition Recommendation For Diabetic Patients Using Improved K-Means And Krill-Herd Optimization by K.Renuka Devi, J.Bhavithra, Dr.A.Saradha, and others, showed how to combine collaborative filtering and content-based filtering to provide better and more accurate recommendations for diabetic patients. The improved K-means clustering algorithm clustered the patient's profile based on factors such as age, height, blood glucose levels, etc., and the improved Krill-herd algorithm determined how similar the active user query is to other patients. The system's effectiveness was assessed using a variety of metrics, and error values like Fallout rate, Miss rate, and Root Mean Squared Error were found to be the lowest.
+
+In the research, Diet-Right: A Smart Food Recommendation System, they have presented a methodology for a cloud-based meal recommendation system that bases dietary recommendations of users’ pathology data. Most of the current meal recommendation systems employed centralized architecture. Scalability issues arise while dealing with the enormous volume of data, which is the main drawback of employing such systems. To provide scalability and pervasiveness, the proposed system leveraged a cloud-based solution, making the recommendation system easily accessible to users of smartphones. In this system, a user was given access to the whole list of test parameters from which to choose. Additionally, the user entered their gender and age. The user then entered the relevant values from the test report into the parameters they had chosen. In the following stage, these values were transmitted to cloud and compared to the typical ranges that are kept in their database. After calculating the pathological test report abnormality level, the weight assignment and matrix formation process was completed. Following that, each food item’s ranks were determined and arranged in descending order. The user was then given the list of foods that were recommended using an Accountable Care Organizations model. Here, comprehensive experimentation was carried out to evaluate the cost, accuracy, convergence time, and performance improvement when compared with other recommender systems.
+
 ## Methodology
 
 This study is based on the “USDA Food Composition Database” given by the U.S. Department of Agriculture. The initial data set contained 51 columns, including 44 nutrient fields and 7 other fields, namely Name, Group, Glycemic index, Insulin index, Serving Size, Acidity (Based on PRAL), and GI Category related to 626 food items. The nutrient content for those 44 nutrient categories was given per 100 grams.
@@ -196,6 +202,7 @@ Overall, Diabeedoc has the potential to have a significant impact on the lives o
 
 - [Project Repository](https://github.com/cepdnaclk/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients)
 - [Project Page](https://cepdnaclk.github.io/e16-4yp-Food-Recommendation-System-Using-Machine-Learning-for-Diabetic-Patients/)
+- [Project Demonstration](https://www.youtube.com/watch?v=4-7J1YvCzK8)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
