@@ -162,7 +162,7 @@ The k value was set as 17 due to number of food groups in the dataset. The affin
 
 <span><i>Table 01: The performance of clusting algorithms compared to baseline model</i></span>
 
-</div align="center">
+</div>
 
 The above values were wrt the baseline model result on a given high GI food. The KMeans and SOM algorithms were able to select foods with similar nutrient content to given than the affinity propagation algorithm. SOM was able to match the food group of high glycemic index food when selecting food. The SOM and KMeans were faster than the baseline model when producing the results.
 
